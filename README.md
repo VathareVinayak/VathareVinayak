@@ -1,6 +1,6 @@
-# Hi there! Welcome to my GitHub profile! 👋
+# Hello Folks ! Welcome To My GitHub Profile! 👋
 
-## Vinayak Vathare
+## Myself Vinayak Vathare..
 
 ### Data Scientist and Machine Learning Learner
 
@@ -13,13 +13,13 @@
 - 🎓 i am a **Data Scientist and Machine Learning Enthusiast**
 - 📚 Currently exploring languages: **Python, Java**
 - 💼 Skilled in **Statistics, Probability, and Data Analytics**
-- 🛠 Working on **Power BI projects** and **MySQL projects**
+- 🛠 Working on **Power BI projects**, **MySQL projects** , **Machine Learning**
 - 🔧 Tools I use: **VS Code, Google Colab , Jupyter Notebook**
 - 💡 Keen to collaborate on **Hackathons, Datathons, Data Science and Machine Learning projects, Data Analysis**
 
 ## Reach Out to Me 📬
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vinayak-vathare-4bb135279/)
-- 📧 vinayak.vatahre@gmail.com
+- 📧 vinayak.vathare2004@gmail.com
 
 ---
 
