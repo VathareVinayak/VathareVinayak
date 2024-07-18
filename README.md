@@ -13,7 +13,7 @@
 - 🎓 I am a **Data Scientist and Machine Learning Enthusiast**
 - 📚 Currently exploring languages: **Data Science , Machine Learning**
 - 💼 Skilled in **Python , Excel, Data Visualization**
-- 🛠 Working on **Power BI projects**, **MySQL projects** , **Machine Learning**
+- 🛠 Working on **Power BI projects**, **Data Analytics** , **Machine Learning**
 - 🔧 Tools I use: **VS Code, Google Colab , Jupyter Notebook**
 - 💡 Keen to collaborate on **Hackathons, Datathons, Data Science and Machine Learning projects, Data Analysis**
 
