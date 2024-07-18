@@ -10,9 +10,9 @@
 ---
 
 ## About Me 🌟
-- 🎓 i am a **Data Scientist and Machine Learning Enthusiast**
-- 📚 Currently exploring languages: **Python, Java**
-- 💼 Skilled in **Statistics, Probability, and Data Analytics**
+- 🎓 I am a **Data Scientist and Machine Learning Enthusiast**
+- 📚 Currently exploring languages: **Data Science , Machine Learning**
+- 💼 Skilled in **Python , Excel, Data Visualization**
 - 🛠 Working on **Power BI projects**, **MySQL projects** , **Machine Learning**
 - 🔧 Tools I use: **VS Code, Google Colab , Jupyter Notebook**
 - 💡 Keen to collaborate on **Hackathons, Datathons, Data Science and Machine Learning projects, Data Analysis**
@@ -41,7 +41,8 @@
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
+
 
 ### Databases 💾
  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=ffcd34) 
