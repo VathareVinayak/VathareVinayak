@@ -19,7 +19,8 @@
 
 ## Reach Out to Me 📬
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vinayak-vathare-4bb135279/)
-- 📧 vinayak.vathare2004@gmail.com
+- 📧 work.vinayakvathare@gmail.com
+
 
 ---
 
