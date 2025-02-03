@@ -1,6 +1,6 @@
 # Hello Folks ! Welcome To My GitHub Profile! 👋
 
-## Myself Vinayak Vathare..
+## I am Vinayak Vathare..
 
 ### Data Scientist and Machine Learning Learner
 
