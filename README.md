@@ -76,8 +76,5 @@
 ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vatharevinayak&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatharevinayak&layout=compact&theme=radical)
-<p style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatharevinayak&theme=dark" alt="vatharevinayak" />
-</p>
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vatharevinayak&theme=dark)
 
