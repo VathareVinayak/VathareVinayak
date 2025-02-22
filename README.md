@@ -1,4 +1,4 @@
-# Hello Folks ! Welcome To My GitHub Profile! 👋
+# Hello Folks !👋
 
 ## I am Vinayak Vathare..
 
