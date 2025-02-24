@@ -2,7 +2,7 @@
 
 ## I am Vinayak Vathare..
 
-### Data Science Practitioner | ML & AI Enthusiast 🤖
+### Data Science Practitioner , AI & ML Enthusiast 🤖
 
 ![Profile views](https://komarev.com/ghpvc/?username=vatharevinayak&color=blue)&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/vatharevinayak?label=Follow&style=social)](https://github.com/vatharevinayak)&nbsp;
