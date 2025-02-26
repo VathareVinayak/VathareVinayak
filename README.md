@@ -16,7 +16,9 @@
 - 🛠 Working on **Power BI projects**, **Data Analytics** , **Machine Learning**
 - 🔧 Tools I use: **VS Code, Google Colab , Jupyter Notebook**
 - 💡 Keen to collaborate on **Hackathons, Datathons, Data Science and Machine Learning projects, Data Analysis**
-
+- 🚀 Currently working on **ML and DL projects**:  
+  - **RecoHub.AI** (Movie + Music + Podcast Recommendation System) - [GitHub Repo](https://github.com/vatharevinayak/RecoHub.Ai)
+  - **SafetyKit** (Revolutionizing Workplace Safety with Smart Detection & Instant Alerts!) -  [GitHub Repo](https://github.com/VathareVinayak/safety-detection-system)
 ## Reach Out to Me 📬
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vinayak-vathare-4bb135279/)
 - 📧 work.vinayakvathare@gmail.com
