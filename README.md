@@ -79,9 +79,9 @@
 ## Contributions 📈
 <div align="Center">
   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatharevinayak&layout=compact&theme=radical)
+  
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vatharevinayak&show_icons=true&theme=tokyonight)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatharevinayak&layout=compact&theme=radical)
-
   ![GitHub Streak](https://streak-stats.demolab.com/?user=vatharevinayak&theme=dark)
 </div>
