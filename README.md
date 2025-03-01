@@ -77,11 +77,6 @@
 ---
 
 ## Contributions 📈
-<div align="center">
-    <img src="https://api.githubtrends.io/user/svg/vatharevinayak/langs?time_range=one_year&theme=dark" 
-         alt="Top Languages" width="400"/>
-</div>
-
 
 ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vatharevinayak&show_icons=true&theme=radical)
  
