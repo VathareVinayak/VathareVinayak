@@ -19,10 +19,14 @@
 - 🚀 Currently working on **ML and DL projects**:  
   - **RecoHub.AI** (Movie + Music + Podcast Recommendation System) - [GitHub Repo](https://github.com/vatharevinayak/RecoHub.Ai) , [Live Demo](https://recohub-ai.onrender.com/) .
   - **PPEGuard.AI** (Revolutionizing Workplace Safety with Smart Detection & Instant Alerts!) -  [GitHub Repo](https://github.com/VathareVinayak/safety-detection-system) .
-## Reach Out to Me 📬
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vinayak-vathare-4bb135279/)
-- 📧 work.vinayakvathare@gmail.com
+## Reach Out to Me 🌐
 
+<div align="center">
+    <a href="https://www.linkedin.com/in/vinayak-vathare-4bb135279/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:work.vinayakvathare@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
 
 ---
 
@@ -65,16 +69,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-## Let's Connect 🌐
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/vinayak-vathare-4bb135279/">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:work.vinayakvathare@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
-
----
 
 ## Contributions 📈
 <div align="Center">
