@@ -77,15 +77,15 @@
 ---
 
 ## Contributions 📈
+<div align="center">
+    <img src="https://api.githubtrends.io/user/svg/vatharevinayak/langs?time_range=one_year&theme=dark" 
+         alt="Top Languages" width="400"/>
+</div>
+
 
 ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vatharevinayak&show_icons=true&theme=radical)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatharevinayak&layout=compact&theme=radical)
-
-<div align="center">
-    <img src="https://api.githubtrends.io/user/svg/VathareVinayak/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" 
-         alt="Top Languages" width="400"/>
-</div>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vatharevinayak&theme=dark)
 
