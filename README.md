@@ -77,10 +77,10 @@
 ---
 
 ## Contributions 📈
+<div align="Center">
+  ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vatharevinayak&show_icons=true&theme=radical)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatharevinayak&layout=compact&theme=radical)
 
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vatharevinayak&show_icons=true&theme=radical)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatharevinayak&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=vatharevinayak&theme=dark)
-
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=vatharevinayak&theme=dark)
+</div>
