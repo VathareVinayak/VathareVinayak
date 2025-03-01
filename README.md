@@ -82,5 +82,11 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatharevinayak&layout=compact&theme=radical)
 
+
+<div align="center">
+    <img src="https://api.githubtrends.io/user/svg/divyansharma001/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" alt="Top Languages" width="400"/>
+   
+</div>
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vatharevinayak&theme=dark)
 
