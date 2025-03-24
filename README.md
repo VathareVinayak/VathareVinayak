@@ -43,7 +43,7 @@
 ### Frameworks 📚
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=social&logo=fastapi&logoColor=white)
 
 ### Languages 🌐
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
