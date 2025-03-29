@@ -11,12 +11,12 @@
 
 ## About Me 🌟
 - 🎓 I am a **Data Scientist and Machine Learning Enthusiast**
-- 📚 Currently exploring languages: **Data Science , Machine Learning**
-- 💼 Skilled in **Python , Excel, Data Visualization , Database**
-- 🛠 Working on **Power BI projects**, **Data Analytics** , **Machine Learning**
+- 📚 Currently exploring : **Machine Learning ,Neural Networks , Deep Learning**
+- 💼 Skilled in **Python, Machine Learning ,  Excel, Data Visualization , Database**
+- 🛠 Working on **Deep Learning** , **Machine Learning** , **Data Analytics.**
 - 🔧 Tools I use: **VS Code, Google Colab , Jupyter Notebook**
 - 💡 Keen to collaborate on **Hackathons, Datathons, Data Science and Machine Learning projects, Data Analysis**
-- 🚀 Currently working on **ML and DL projects**:  
+- 🚀 Currently working on **Deep Learning & API Integration**:  
   - **RecoHub.AI** (Movie + Music + Podcast Recommendation System) - [GitHub Repo](https://github.com/vatharevinayak/RecoHub.Ai) , [Live Demo](https://recohub-ai.onrender.com/) .
   - **PPEGuard.AI** (Revolutionizing Workplace Safety with Smart Detection & Instant Alerts!) -  [GitHub Repo](https://github.com/VathareVinayak/safety-detection-system) .
 ## Reach Out to Me 🌐
@@ -57,7 +57,6 @@
 ### Databases 💾
  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=ffcd34) 
  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Design 🎨
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
