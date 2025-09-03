@@ -5,7 +5,7 @@
 ### Data Science Practitioner , AI & ML Enthusiast 🤖, Neural Networks Learner 🧠
 
 ![Profile views](https://komarev.com/ghpvc/?username=vatharevinayak&color=blue)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/vatharevinayak?label=Follow&style=social)](https://github.com/vatharevinayak)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/vatharevinayak?label=Follow&style=social)](https://github.com/aakashmohole/AxnosAI)&nbsp;
 
 ---
 
@@ -17,7 +17,7 @@
 - 🔧 Tools I use: **VS Code, Google Colab , Jupyter Notebook**
 - 💡 Keen to collaborate on **Hackathons, Datathons, Data Science and Machine Learning projects, Data Analysis**
 - 🚀 Currently working on **Deep Learning & API Integration**:  
-  - **RecoHub.AI** (Movie + Music + Podcast Recommendation System) - [GitHub Repo](https://github.com/vatharevinayak/RecoHub.Ai) , [Live Demo](https://recohub-ai.onrender.com/) .
+  - **Axnos AI** (Talk To Your - Commands Through Prompts and Voice) - [GitHub Repo](https://github.com/AakashMohole) , [Live Demo](https://recohub-ai.onrender.com/) .
   - **PPEGuard.AI** (Revolutionizing Workplace Safety with Smart Detection & Instant Alerts!) -  [GitHub Repo](https://github.com/VathareVinayak/safety-detection-system) .
 ## Reach Out to Me 🌐
 
