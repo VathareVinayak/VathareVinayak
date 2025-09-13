@@ -18,11 +18,11 @@
 - 💡 Keen to collaborate on **Hackathons, Datathons, Data Science and Machine Learning projects, Data Analysis**
 - 🚀 Currently working on **Deep Learning & API Integration**:  
   - **Axnos AI** (Talk To Your - Commands Through Prompts and Voice) - [GitHub Repo](https://github.com/AakashMohole) .
-  - **Elara** (RAG / NON-RAG Based AI - Smart Chatbot That Delivers Fast, Accurate Answers) -  [GitHub Repo](https://github.com/VathareVinayak/Elara) .
+  - **Elara** (RAG / Non-RAG Based AI - Smart Chatbot That Delivers Fast, Accurate Answers) -  [GitHub Repo](https://github.com/VathareVinayak/Elara) .
 ## Reach Out to Me 🌐
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/vinayak-vathare-4bb135279/">
+    <a href="linkedin.com/in/vinayakvathare/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:work.vinayakvathare@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
