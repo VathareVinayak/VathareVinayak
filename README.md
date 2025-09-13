@@ -17,8 +17,8 @@
 - 🔧 Tools I use: **VS Code, Google Colab , Jupyter Notebook**
 - 💡 Keen to collaborate on **Hackathons, Datathons, Data Science and Machine Learning projects, Data Analysis**
 - 🚀 Currently working on **Deep Learning & API Integration**:  
-  - **Axnos AI** (Talk To Your - Commands Through Prompts and Voice) - [GitHub Repo](https://github.com/AakashMohole) , [Live Demo](https://recohub-ai.onrender.com/) .
-  - **PPEGuard.AI** (Revolutionizing Workplace Safety with Smart Detection & Instant Alerts!) -  [GitHub Repo](https://github.com/VathareVinayak/safety-detection-system) .
+  - **Axnos AI** (Talk To Your - Commands Through Prompts and Voice) - [GitHub Repo](https://github.com/AakashMohole) .
+  - **Elara** (RAG / NON-RAG Based AI - Smart Chatbot That Delivers Fast, Accurate Answers) -  [GitHub Repo](https://github.com/VathareVinayak/Elara) .
 ## Reach Out to Me 🌐
 
 <div align="center">
@@ -30,7 +30,6 @@
 
 ---
 
-## Technologies and Tools 🛠
 ## Technologies and Tools 🛠
 
 ### Libraries 📔
