@@ -11,12 +11,11 @@
 
 ## About Me 🌟
 - 🎓 I am a **Data Scientist and Machine Learning Enthusiast**
-- 📚 Currently exploring : **Machine Learning ,Neural Networks , Deep Learning**
-- 💼 Skilled in **Python, Machine Learning ,  Excel, Data Visualization , Database**
-- 🛠 Working on **Deep Learning** , **Machine Learning** , **Data Analytics.**
-- 🔧 Tools I use: **VS Code, Google Colab , Jupyter Notebook**
-- 💡 Keen to collaborate on **Hackathons, Datathons, Data Science and Machine Learning projects, Data Analysis**
-- 🚀 Currently working on **Deep Learning & API Integration**:  
+- 📚 Currently exploring : **Neural Networks , Deep Learning , LLM's , RestFul API's**
+- 💼 Skilled in **Java , Python, JavaScript , SQL **
+- 🔧 Tools I use: **VS Code, Intellij IDE ,  Google Colab , Jupyter Notebook**
+- 💡 Keen to collaborate on **Hackathons, Datathons**
+- 🚀 Currently working on **Deep Learning & RESTAPI Integration**:  
   - **Axnos AI** (Talk To Your - Commands Through Prompts and Voice) - [GitHub Repo](https://github.com/AakashMohole) .
   - **Elara** (RAG / Non-RAG Based AI - Smart Chatbot That Delivers Fast, Accurate Answers) -  [GitHub Repo](https://github.com/VathareVinayak/Elara) .
 ## Reach Out to Me 🌐
