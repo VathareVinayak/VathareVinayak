@@ -16,7 +16,7 @@
 - 🔧 Tools I use: **VS Code, Intellij IDE ,  Google Colab , Jupyter Notebook**
 - 💡 Keen to collaborate on **Hackathons, Datathons**
 - 🚀 Currently working on **Deep Learning & RESTAPI Integration**:  
-  - **Axnos AI** (Talk To Your - Commands Through Prompts and Voice) - [GitHub Repo](https://github.com/AakashMohole) .
+  - **Axnos AI** (Talk To Your - Commands Through Prompts and Voice) - [GitHub Repo](https://github.com/aakashmohole/AxnosAI) .
   - **Elara** (RAG / Non-RAG Based AI - Smart Chatbot That Delivers Fast, Accurate Answers) -  [GitHub Repo](https://github.com/VathareVinayak/Elara) .
 ## Reach Out to Me 🌐
 
