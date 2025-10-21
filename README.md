@@ -12,7 +12,7 @@
 ## About Me 🌟
 - 🎓 I am a **Data Scientist and Machine Learning Enthusiast**
 - 📚 Currently exploring : **Neural Networks , Deep Learning , LLM's , RestFul API's**
-- 💼 Skilled in **Java , Python, JavaScript , SQL **
+- 💼 Skilled in **Java , Python, JavaScript , SQL**
 - 🔧 Tools I use: **VS Code, Intellij IDE ,  Google Colab , Jupyter Notebook**
 - 💡 Keen to collaborate on **Hackathons, Datathons**
 - 🚀 Currently working on **Deep Learning & RESTAPI Integration**:  
